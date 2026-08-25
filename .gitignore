@@ -1,0 +1,19 @@
+node_modules/
+*.log
+*.tgz
+.env
+.env.*
+
+# Never commit session cookies — treat them like passwords
+appstate.json
+appState.json
+appstate*.json
+cookies.json
+
+# SQLite databases (local cache)
+*.sqlite
+*.db
+
+# Build artefacts
+dist/
+build/

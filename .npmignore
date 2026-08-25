@@ -1,0 +1,21 @@
+# Replit environment files
+.replit
+replit.md
+server.js
+.agents/
+.local/
+
+# Development & CI
+.git/
+.github/
+*.log
+*.tgz
+.env
+.env.*
+
+# Test / local data
+node_modules/
+appstate.json
+appState.json
+*.sqlite
+*.db
