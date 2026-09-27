@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/metachat-banner.svg" alt="MetaChat animated banner" width="900" />
+  <img src="./assets/banner.svg" alt="MetaChat animated banner" width="900" />
 
   <p><strong>Messenger automation without the noise.</strong></p>
 
