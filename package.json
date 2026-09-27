@@ -1,9 +1,9 @@
 {
-  "name": "mahmud-aura-fca",
-  "version": "2.2.2",
+  "name": "aura-fca",
+  "version": "1.2.2",
   "type": "commonjs",
   "types": "src/types/index.d.ts",
-  "description": "Advanced Facebook Chat API client for Messenger automation, real-time MQTT listening, and session-stable Facebook chat operations.",
+  "description": "Masterpiece Facebook Chat API client for Messenger automation, real-time MQTT listening, and session-stable Facebook chat operations.",
   "main": "index.js",
   "files": [
     "README.md",
@@ -14,17 +14,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahmud-aura-fca.git"
+    "url": "git+https://github.com/mahmud-aura/aura-fca.git"
   },
   "author": "MahMUD",
   "contributors": [
-    "NeoKEX"
+    "MahMUD"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mahmud-aura-fca-issues"
+    "url": "https://github.com/mahmud-aura/aura-fca/issues"
   },
-  "homepage": "mahmud-aura-is-a.dev",
+  "homepage": "https://github.com/mahmud-aura/aura-fca#readme",
   "keywords": [
     "facebook",
     "messenger",
@@ -36,7 +36,7 @@
     "api",
     "automation",
     "facebook-chat-api",
-    "metachat"
+    "aura-fca"
   ],
   "dependencies": {
     "axios": "^1.19.0",
@@ -81,7 +81,7 @@
   },
   "scripts": {
     "validate": "npm pack --dry-run",
-    "prepack": "echo \"Preparing for npm...\"",
+    "prepack": "echo \"Preparing aura-fca for npm...\"",
     "test": "mocha \"session-safety.test.js\" --reporter dot"
   },
   "publishConfig": {
