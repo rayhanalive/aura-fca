@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lazyneoaz/metachat.git"
+    "url": "git+https://github.com/mahmud-aura-fca.git"
   },
   "author": "MahMUD",
   "contributors": [
@@ -22,9 +22,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lazyneoaz/metachat/issues"
+    "url": "https://github.com/mahmud-aura-fca-issues"
   },
-  "homepage": "https://neokex.xyz",
+  "homepage": "mahmud-aura-is-a.dev",
   "keywords": [
     "facebook",
     "messenger",
@@ -81,7 +81,7 @@
   },
   "scripts": {
     "validate": "npm pack --dry-run",
-    "prepack": "echo \"Preparing @lazyneoaz/metachat for npm...\"",
+    "prepack": "echo \"Preparing for npm...\"",
     "test": "mocha \"session-safety.test.js\" --reporter dot"
   },
   "publishConfig": {
