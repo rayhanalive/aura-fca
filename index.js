@@ -32,7 +32,6 @@ const { normalizeCookieHeaderString, setJarFromPairs } = require('./src/utils/fo
 const { createAuthCore } = require('./src/utils/auth-helpers');
 const { FCAError, RetryHandler, ErrorTracker } = require('./src/utils/ErrorHandler');
 
-// Stability & Resilience Utilities
 const { BotHealthMonitor } = require('./src/utils/BotHealthMonitor');
 const { SessionStabilityManager } = require('./src/utils/SessionStabilityManager');
 const { AdaptiveRateLimiter } = require('./src/utils/AdaptiveRateLimiter');
