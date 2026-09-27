@@ -15,7 +15,7 @@ MetaChat is a CommonJS library for Facebook Messenger automation. It combines se
 ## Install
 
 ```bash
-npm install @lazyneoaz/metachat
+npm install aura-fca
 ```
 
 ## Quick start
