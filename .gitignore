@@ -10,7 +10,7 @@ appState.json
 appstate*.json
 cookies.json
 
-# SQLite databases (local cache)
+# SQLite databases
 *.sqlite
 *.db
 
