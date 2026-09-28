@@ -1,6 +1,6 @@
 {
   "name": "aura-fca",
-  "version": "1.2.4",
+  "version": "1.2.5",
   "type": "commonjs",
   "types": "src/types/index.d.ts",
   "description": "Masterpiece Facebook Chat API client for Messenger automation, real-time MQTT listening, and session-stable Facebook chat operations.",
