@@ -473,7 +473,7 @@ function credits() {
   const { name, version: ver } = readLocalPackage();
   console.log(applyTheme(`${name} v${ver}`));
   console.log(pc.dim('  Developed and maintained by MahMUD'));
-  console.log(pc.dim('  GitHub  : https://github.com/mahmud-aura/aura-fca'));
+  console.log(pc.dim('  GitHub  : https://github.com/mahmud-aura'));
   console.log(pc.dim('  Website : https://mahmud-aura.is-a.dev'));
   console.log(pc.dim(`  npm     : https://www.npmjs.com/package/${name}`));
 }
