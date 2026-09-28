@@ -4,7 +4,7 @@
   <p><strong>Messenger automation without the noise.</strong></p>
 
   <p>
-    <a href="https://www.npmjs.com/package/mahmud-aura"><img src="https://img.shields.io/npm/v/%40lazyneoaz%2Fmetachat?style=flat-square&color=6366f1" alt="npm version"></a>
+    <a href="https://www.npmjs.com/package/aura-fca"><img src="https://img.shields.io/npm/v/aura-fca?style=flat-square&color=6366f1" alt="npm version"></a>
     <a href="https://github.com/mahmud-aura/aura-fca"><img src="https://img.shields.io/github/license/mahmud-aura/aura-fca?style=flat-square&color=14b8a6" alt="License"></a>
     <a href="https://nodejs.org"><img src="https://img.shields.io/node/v/aura-fca?style=flat-square&color=f59e0b" alt="Node.js version"></a>
   </p>
