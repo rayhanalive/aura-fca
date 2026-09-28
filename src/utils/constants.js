@@ -472,9 +472,9 @@ function credits() {
   if (!shouldLog('info')) return;
   const { name, version: ver } = readLocalPackage();
   console.log(applyTheme(`${name} v${ver}`));
-  console.log(pc.dim('  Developed and maintained by NeoKEX'));
-  console.log(pc.dim('  GitHub  : https://github.com/lazyneoaz'));
-  console.log(pc.dim('  Website : https://neoaz.is-a.dev'));
+  console.log(pc.dim('  Developed and maintained by MahMUD'));
+  console.log(pc.dim('  GitHub  : https://github.com/mahmud-aura/aura-fca'));
+  console.log(pc.dim('  Website : https://mahmud-aura.is-a.dev'));
   console.log(pc.dim(`  npm     : https://www.npmjs.com/package/${name}`));
 }
 
